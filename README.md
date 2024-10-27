@@ -1,5 +1,4 @@
 # SMIT-BATCH-13
 This is my first git repository.
 <br>
-Author Muhammad Tariq Usman
-changing agin this file
+Again chenging in this line
